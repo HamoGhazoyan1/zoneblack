@@ -43,3 +43,5 @@ export const getStaticProps: GetStaticProps = async ({ preview = false }) => {
     revalidate: 10,
   }
 }
+
+
